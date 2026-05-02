@@ -6,14 +6,6 @@ The package entrypoint is:
 
 - python -m adlens
 
-## Current Run Status
-
-A direct startup check was attempted from this repo and failed with:
-
-- ModuleNotFoundError: No module named playwright
-
-So dependency installation is required before first run.
-
 ## Requirements
 
 - Python 3.10+
@@ -25,7 +17,7 @@ So dependency installation is required before first run.
 From the repository root:
 
 ```bash
-cd /home/azafar2/adlens
+cd /your/path/adlens
 ```
 
 If you use conda, activate your environment first:
