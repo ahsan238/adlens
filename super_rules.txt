@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: Opus Super Rules (deduplicated)
-! Source: /home/azafar2/autoRG/opus_results
 ! Generation date: 2026-04-22T01:44:21Z
 ! Unique rules: 25100
 ! Sorted by descending frequency across rules.txt files
